@@ -1,0 +1,77 @@
+#EXTM3U
+
+# ==================== مجموعة bein max ====================
+#EXTINF:-1 group-title="bein max",beIN Sports Max 1 
+http://line.ottcst.com:80/HMZSGKZSCF/4RAZUGPADF/1766233
+
+#EXTINF:-1 group-title="bein max",beIN Sports Max 2 
+http://line.ottcst.com:80/HMZSGKZSCF/4RAZUGPADF/1766232
+
+#EXTINF:-1 group-title="bein max",beIN Sports Max 3 
+http://line.ottcst.com:80/HMZSGKZSCF/4RAZUGPADF/1766231
+
+#EXTINF:-1 group-title="bein max",beIN Sports Max 4 
+http://line.ottcst.com:80/HMZSGKZSCF/4RAZUGPADF/1766230
+
+# ==================== مجموعة bein sport ====================
+#EXTINF:-1 group-title="bein sport",beIN Sports 1 
+http://sportzone.kesug.com/stream.php?url=
+
+#EXTINF:-1 group-title="bein sport",beIN Sports 2 
+http://sportzone.kesug.com/stream.php?url=
+
+#EXTINF:-1 group-title="bein sport",beIN Sports 3 
+http://sportzone.kesug.com/stream.php?url=
+
+#EXTINF:-1 group-title="bein sport",beIN Sports 4 
+http://sportzone.kesug.com/stream.php?url=
+
+#EXTINF:-1 group-title="bein sport",beIN Sports 5 
+http://sportzone.kesug.com/stream.php?url=
+
+#EXTINF:-1 group-title="bein sport",beIN Sports 6 
+http://sportzone.kesug.com/stream.php?url=
+
+#EXTINF:-1 group-title="bein sport",beIN Sports 7 
+http://sportzone.kesug.com/stream.php?url=
+
+#EXTINF:-1 group-title="bein sport",beIN Sports 8 
+http://sportzone.kesug.com/stream.php?url=
+
+#EXTINF:-1 group-title="bein sport",beIN Sports 9 
+http://sportzone.kesug.com/stream.php?url=
+
+# ==================== مجموعة Alwan sport ====================
+#EXTINF:-1 group-title="Alwan sport",Alwan Sports 1 
+http://sportzone.kesug.com/stream.php?url=
+
+#EXTINF:-1 group-title="Alwan sport",Alwan Sports 2 
+http://sportzone.kesug.com/stream.php?url=
+
+#EXTINF:-1 group-title="Alwan sport",Alwan Sports 3 
+http://sportzone.kesug.com/stream.php?url=
+
+#EXTINF:-1 group-title="Alwan sport",Alwan Sports 4 
+http://sportzone.kesug.com/stream.php?url=
+
+#EXTINF:-1 group-title="Alwan sport",Alwan Sports 5 
+http://sportzone.kesug.com/stream.php?url=
+
+#EXTINF:-1 group-title="Alwan sport",Alwan Sports 6 
+http://sportzone.kesug.com/stream.php?url=
+
+# ==================== مجموعة Arabic sport ====================
+#EXTINF:-1 group-title="Arabic sport",AD Sports 1 
+http://sportzone.kesug.com/stream.php?url=
+
+#EXTINF:-1 group-title="Arabic sport",AD Sports 2 
+http://sportzone.kesug.com/stream.php?url=
+
+#EXTINF:-1 group-title="Arabic sport",ON Sport 
+http://sportzone.kesug.com/stream.php?url=
+
+#EXTINF:-1 group-title="Arabic sport",ON Sport MAX 
+http://sportzone.kesug.com/stream.php?url=
+
+#EXTINF:-1 group-title="Arabic sport",ON Sport PLUS
+http://sportzone.kesug.com/stream.php?url=
