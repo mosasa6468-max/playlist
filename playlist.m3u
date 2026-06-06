@@ -1,17 +1,43 @@
 #EXTM3U
 
-# ==================== مجموعة bein max ====================
-#EXTINF:-1 group-title="bein max",beIN Sports Max 1 
-http://marveliptv.life/live/HUSSEIN5050/Hussein6060/528738.m3u8
+# ==================== مجموعة bein max FHD====================
+#EXTINF:-1 group-title="bein max FHD",beIN Sports Max 1 FHD
+http://blue4k.net:8080/live/21007156718296/29444755188899/575936.m3u8
 
-#EXTINF:-1 group-title="bein max",beIN Sports Max 2 
+#EXTINF:-1 group-title="bein max FHD",beIN Sports Max 2 FHD
 http://elattar-tv.org:8080/live/Pq47z4Fajgpk/Yhtawy9aBW8N/65471.ts
 
-#EXTINF:-1 group-title="bein max",beIN Sports Max 3 
+#EXTINF:-1 group-title="bein max FHD",beIN Sports Max 3 FHD
 http://elattar-tv.org:8080/live/Pq47z4Fajgpk/Yhtawy9aBW8N/65472.ts
 
-#EXTINF:-1 group-title="bein max",beIN Sports Max 4 
+#EXTINF:-1 group-title="bein max FHD",beIN Sports Max 4 FHD
 http://elattar-tv.org:8080/live/Pq47z4Fajgpk/Yhtawy9aBW8N/65473.ts
+
+# ==================== مجموعة bein max HD====================
+#EXTINF:-1 group-title="bein max HD",beIN Sports Max 1 HD
+http://blue4k.net:8080/live/21007156718296/29444755188899/575582.m3u8
+
+#EXTINF:-1 group-title="bein max HD",beIN Sports Max 2 HD 
+http://blue4k.net:8080/live/21007156718296/29444755188899/575583.m3u8
+
+#EXTINF:-1 group-title="bein max HD",beIN Sports Max 3 HD
+http://elattar-tv.org:8080/live/Pq47z4Fajgpk/Yhtawy9aBW8N/65472.ts
+
+#EXTINF:-1 group-title="bein max HD",beIN Sports Max 4 HD
+http://elattar-tv.org:8080/live/Pq47z4Fajgpk/Yhtawy9aBW8N/65473.ts
+
+# ==================== مجموعة bein max SD====================
+#EXTINF:-1 group-title="bein max SD",beIN Sports Max 1 SD
+http://blue4k.net:8080/live/21007156718296/29444755188899/575948.m3u8
+
+#EXTINF:-1 group-title="bein max SD",beIN Sports Max 2 SD
+http://blue4k.net:8080/live/21007156718296/29444755188899/575949.m3u8
+
+#EXTINF:-1 group-title="bein max SD",beIN Sports Max 3 SD
+http://blue4k.net:8080/live/21007156718296/29444755188899/575950.m3u8
+
+#EXTINF:-1 group-title="bein max SD",beIN Sports Max 4 SD
+http://blue4k.net:8080/live/21007156718296/29444755188899/575951.m3u8
 
 # ==================== مجموعة bein sport ====================
 #EXTINF:-1 group-title="bein sport",beIN Sports 1 
@@ -43,29 +69,35 @@ http://sportzone.kesug.com/stream.php?url=
 
 # ==================== مجموعة Alwan sport ====================
 #EXTINF:-1 group-title="Alwan sport",Alwan Sports 1 
-http://sportzone.kesug.com/stream.php?url=
+http://elattar-tv.org:8080/live/Pq47z4Fajgpk/Yhtawy9aBW8N/41429.ts
 
 #EXTINF:-1 group-title="Alwan sport",Alwan Sports 2 
-http://sportzone.kesug.com/stream.php?url=
+http://elattar-tv.org:8080/live/Pq47z4Fajgpk/Yhtawy9aBW8N/41430.ts
 
 #EXTINF:-1 group-title="Alwan sport",Alwan Sports 3 
-http://sportzone.kesug.com/stream.php?url=
+http://elattar-tv.org:8080/live/Pq47z4Fajgpk/Yhtawy9aBW8N/41431.ts
 
 #EXTINF:-1 group-title="Alwan sport",Alwan Sports 4 
-http://sportzone.kesug.com/stream.php?url=
+http://elattar-tv.org:8080/live/Pq47z4Fajgpk/Yhtawy9aBW8N/41432.ts
 
 #EXTINF:-1 group-title="Alwan sport",Alwan Sports 5 
-http://sportzone.kesug.com/stream.php?url=
+http://elattar-tv.org:8080/live/Pq47z4Fajgpk/Yhtawy9aBW8N/41433.ts
 
 #EXTINF:-1 group-title="Alwan sport",Alwan Sports 6 
-http://sportzone.kesug.com/stream.php?url=
+http://elattar-tv.org:8080/live/Pq47z4Fajgpk/Yhtawy9aBW8N/41434.ts
 
 # ==================== مجموعة Arabic sport ====================
 #EXTINF:-1 group-title="Arabic sport",AD Sports 1 
-http://sportzone.kesug.com/stream.php?url=
+http://blue4k.net:8080/live/21007156718296/29444755188899/568773.m3u8
 
 #EXTINF:-1 group-title="Arabic sport",AD Sports 2 
-http://sportzone.kesug.com/stream.php?url=
+http://blue4k.net:8080/live/21007156718296/29444755188899/568774.m3u8
+
+#EXTINF:-1 group-title="Arabic sport",Starz Play Sport 1 
+http://blue4k.net:8080/live/21007156718296/29444755188899/505449.m3u8
+
+#EXTINF:-1 group-title="Arabic sport",Starz Play Sport 2
+http://blue4k.net:8080/live/21007156718296/29444755188899/505452.m3u8
 
 #EXTINF:-1 group-title="Arabic sport",ON Sport 
 http://sportzone.kesug.com/stream.php?url=
