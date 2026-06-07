@@ -1,71 +1,71 @@
 #EXTM3U
 
 # ==================== مجموعة bein max FHD====================
-#EXTINF:-1 group-title="bein max FHD",beIN Sports Max 1 FHD
+#EXTINF:-1 group-title="bein max FHD",beIN Max 1 FHD (server 1)
+http://fes-tr.locker:80/live/hamid_447400/PRFLZOt5/1944357.m3u8
+
+#EXTINF:-1 group-title="bein max FHD",beIN Max 2 FHD (server 1)
+http://fes-tr.locker:80/live/hamid_447400/PRFLZOt5/1944358.m3u8
+
+#EXTINF:-1 group-title="bein max FHD",beIN Max 1 FHD (server 2)
 http://blue4k.net:8080/live/21007156718296/29444755188899/575936.m3u8
 
-#EXTINF:-1 group-title="bein max FHD",beIN Sports Max 2 FHD
+#EXTINF:-1 group-title="bein max FHD",beIN Max 2 FHD (server 2)
 http://elattar-tv.org:8080/live/Pq47z4Fajgpk/Yhtawy9aBW8N/65471.ts
 
-#EXTINF:-1 group-title="bein max FHD",beIN Sports Max 3 FHD
-http://elattar-tv.org:8080/live/Pq47z4Fajgpk/Yhtawy9aBW8N/65472.ts
-
-#EXTINF:-1 group-title="bein max FHD",beIN Sports Max 4 FHD
-http://elattar-tv.org:8080/live/Pq47z4Fajgpk/Yhtawy9aBW8N/65473.ts
-
 # ==================== مجموعة bein max HD====================
-#EXTINF:-1 group-title="bein max HD",beIN Sports Max 1 HD
+#EXTINF:-1 group-title="bein max HD",beIN Max 1 HD (server 1)
+http://fes-tr.locker:80/live/hamid_447400/PRFLZOt5/106199.m3u8
+
+#EXTINF:-1 group-title="bein max HD",beIN Max 2 HD (server 1)
+http://fes-tr.locker:80/live/hamid_447400/PRFLZOt5/1063489.m3u8
+
+#EXTINF:-1 group-title="bein max HD",beIN Max 1 HD (server 2)
 http://blue4k.net:8080/live/21007156718296/29444755188899/575582.m3u8
 
-#EXTINF:-1 group-title="bein max HD",beIN Sports Max 2 HD 
+#EXTINF:-1 group-title="bein max HD",beIN Max 2 HD (server 2)
 http://blue4k.net:8080/live/21007156718296/29444755188899/575583.m3u8
 
-#EXTINF:-1 group-title="bein max HD",beIN Sports Max 3 HD
-http://elattar-tv.org:8080/live/Pq47z4Fajgpk/Yhtawy9aBW8N/65472.ts
-
-#EXTINF:-1 group-title="bein max HD",beIN Sports Max 4 HD
-http://elattar-tv.org:8080/live/Pq47z4Fajgpk/Yhtawy9aBW8N/65473.ts
-
 # ==================== مجموعة bein max SD====================
-#EXTINF:-1 group-title="bein max SD",beIN Sports Max 1 SD
-http://blue4k.net:8080/live/21007156718296/29444755188899/575948.m3u8
+#EXTINF:-1 group-title="bein max SD",beIN Max 1 SD (server 1)
+http://fes-tr.locker:80/live/hamid_447400/PRFLZOt5/1944375.m3u8
 
-#EXTINF:-1 group-title="bein max SD",beIN Sports Max 2 SD
-http://blue4k.net:8080/live/21007156718296/29444755188899/575949.m3u8
+#EXTINF:-1 group-title="bein max SD",beIN Max 2 SD (server 1)
+http://fes-tr.locker:80/live/hamid_447400/PRFLZOt5/1944376.m3u8
 
-#EXTINF:-1 group-title="bein max SD",beIN Sports Max 3 SD
+#EXTINF:-1 group-title="bein max SD",beIN Max 1 SD (server 2)
 http://blue4k.net:8080/live/21007156718296/29444755188899/575950.m3u8
 
-#EXTINF:-1 group-title="bein max SD",beIN Sports Max 4 SD
+#EXTINF:-1 group-title="bein max SD",beIN Max 2 SD (server 2)
 http://blue4k.net:8080/live/21007156718296/29444755188899/575951.m3u8
 
 # ==================== مجموعة bein sport ====================
 #EXTINF:-1 group-title="bein sport",beIN Sports 1 
-http://elattar-tv.org:8080/live/Pq47z4Fajgpk/Yhtawy9aBW8N/881.ts
+http://fes-tr.locker:80/live/hamid_447400/PRFLZOt5/2541.m3u8
 
 #EXTINF:-1 group-title="bein sport",beIN Sports 2 
-http://sportzone.kesug.com/stream.php?url=
+http://fes-tr.locker:80/live/hamid_447400/PRFLZOt5/2540.m3u8
 
 #EXTINF:-1 group-title="bein sport",beIN Sports 3 
-http://sportzone.kesug.com/stream.php?url=
+http://fes-tr.locker:80/live/hamid_447400/PRFLZOt5/2538.m3u8
 
 #EXTINF:-1 group-title="bein sport",beIN Sports 4 
-http://sportzone.kesug.com/stream.php?url=
+http://fes-tr.locker:80/live/hamid_447400/PRFLZOt5/10795.m3u8
 
 #EXTINF:-1 group-title="bein sport",beIN Sports 5 
-http://sportzone.kesug.com/stream.php?url=
+http://fes-tr.locker:80/live/hamid_447400/PRFLZOt5/2536.m3u8
 
 #EXTINF:-1 group-title="bein sport",beIN Sports 6 
-http://sportzone.kesug.com/stream.php?url=
+http://fes-tr.locker:80/live/hamid_447400/PRFLZOt5/2535.m3u8
 
 #EXTINF:-1 group-title="bein sport",beIN Sports 7 
-http://sportzone.kesug.com/stream.php?url=
+http://fes-tr.locker:80/live/hamid_447400/PRFLZOt5/2534.m3u8
 
 #EXTINF:-1 group-title="bein sport",beIN Sports 8 
-http://sportzone.kesug.com/stream.php?url=
+http://fes-tr.locker:80/live/hamid_447400/PRFLZOt5/2533.m3u8
 
 #EXTINF:-1 group-title="bein sport",beIN Sports 9 
-http://sportzone.kesug.com/stream.php?url=
+http://fes-tr.locker:80/live/hamid_447400/PRFLZOt5/2532.m3u8
 
 # ==================== مجموعة Alwan sport ====================
 #EXTINF:-1 group-title="Alwan sport",Alwan Sports 1 
