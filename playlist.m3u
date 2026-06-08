@@ -32,10 +32,10 @@ http://blue4k.net:8080/live/21007156718296/29444755188899/575582.m3u8
 #EXTINF:-1 group-title="bein max HD",beIN Max 2 HD (server 2)
 http://blue4k.net:8080/live/21007156718296/29444755188899/575583.m3u8
 
-#EXTINF:-1 group-title="bein max FHD",beIN Max 1 FHD (server 3)
+#EXTINF:-1 group-title="bein max HD",beIN Max 1 HD (server 3)
 http://fes-tr.locker:80/live/hamid_447400/PRFLZOt5/1944357.m3u8
 
-#EXTINF:-1 group-title="bein max FHD",beIN Max 2 FHD (server 3)
+#EXTINF:-1 group-title="bein max HD",beIN Max 2 HD (server 3)
 http://fes-tr.locker:80/live/hamid_447400/PRFLZOt5/1944358.m3u8
 
 # ==================== مجموعة bein max SD====================
