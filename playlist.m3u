@@ -27,10 +27,10 @@ http://prosatbox.com:7474/live/581867691683276/581867691683276/263583.m3u8
 http://prosatbox.com:7474/live/581867691683276/581867691683276/263587.m3u8
 
 #EXTINF:-1 group-title="bein max HD",beIN Max 1 HD (server 2)
-http://blue4k.net:8080/live/21007156718296/29444755188899/575582.m3u8
+http://maventv.one:80/live/nagy4158/elsafti8596/372341.m3u8
 
 #EXTINF:-1 group-title="bein max HD",beIN Max 2 HD (server 2)
-http://blue4k.net:8080/live/21007156718296/29444755188899/575583.m3u8
+http://maventv.one:80/live/nagy4158/elsafti8596/372342.m3u8
 
 #EXTINF:-1 group-title="bein max HD",beIN Max 1 HD (server 3)
 http://fes-tr.locker:80/live/hamid_447400/PRFLZOt5/1944357.m3u8
@@ -46,10 +46,10 @@ http://prosatbox.com:7474/live/581867691683276/581867691683276/263582.m3u8
 http://prosatbox.com:7474/live/581867691683276/581867691683276/263586.m3u8
 
 #EXTINF:-1 group-title="bein max SD",beIN Max 1 SD (server 2)
-http://blue4k.net:8080/live/21007156718296/29444755188899/575950.m3u8
+http://maventv.one:80/live/nagy4158/elsafti8596/372339.m3u8
 
 #EXTINF:-1 group-title="bein max SD",beIN Max 2 SD (server 2)
-http://blue4k.net:8080/live/21007156718296/29444755188899/575951.m3u8
+http://maventv.one:80/live/nagy4158/elsafti8596/372340.m3u8
 
 #EXTINF:-1 group-title="bein max SD",beIN Max 1 SD (server 3)
 http://fes-tr.locker:80/live/hamid_447400/PRFLZOt5/1944357.m3u8
