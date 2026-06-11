@@ -7,16 +7,34 @@ http://hydraa.st:80/live/ssd990987/bgb6669099/724591.m3u8
 #EXTINF:-1 group-title="bein max FHD",beIN Max 2 FHD (server 1)
 http://hydraa.st:80/live/ssd990987/bgb6669099/724595.m3u8
 
+#EXTINF:-1 group-title="bein max FHD",beIN Max 3 FHD (server 1)
+http://hydraa.st:80/live/ssd990987/bgb6669099/724586.m3u8
+
+#EXTINF:-1 group-title="bein max FHD",beIN Max 4 FHD (server 1)
+http://hydraa.st:80/live/ssd990987/bgb6669099/724582.m3u8
+
 #EXTINF:-1 group-title="bein max FHD",beIN Max 1 FHD (server 2)
 http://maventv.one:80/live/nagy4158/elsafti8596/372343.m3u8
 
 #EXTINF:-1 group-title="bein max FHD",beIN Max 2 FHD (server 2)
 http://maventv.one:80/live/nagy4158/elsafti8596/372344.m3u8
 
+#EXTINF:-1 group-title="bein max FHD",beIN Max 3 FHD (server 2)
+http://maventv.one:80/live/nagy4158/elsafti8596/372595.m3u8
+
+#EXTINF:-1 group-title="bein max FHD",beIN Max 4 FHD (server 2)
+http://maventv.one:80/live/nagy4158/elsafti8596/384841.m3u8
+
 #EXTINF:-1 group-title="bein max FHD",beIN Max 1 FHD (server 3)
 http://line.tvforrall.com/live/124d0fc6c5/4d0a83f10682/1389570.m3u8
 
 #EXTINF:-1 group-title="bein max FHD",beIN Max 2 FHD (server 3)
+http://line.tvforrall.com/live/124d0fc6c5/4d0a83f10682/1389569.m3u8
+
+#EXTINF:-1 group-title="bein max FHD",beIN Max 3 FHD (server 3)
+http://line.tvforrall.com/live/124d0fc6c5/4d0a83f10682/1389570.m3u8
+
+#EXTINF:-1 group-title="bein max FHD",beIN Max 4 FHD (server 3)
 http://line.tvforrall.com/live/124d0fc6c5/4d0a83f10682/1389569.m3u8
 
 # ==================== مجموعة bein max HD====================
@@ -26,11 +44,23 @@ http://hydraa.st:80/live/ssd990987/bgb6669099/724612.m3u8
 #EXTINF:-1 group-title="bein max HD",beIN Max 2 HD (server 1)
 http://hydraa.st:80/live/ssd990987/bgb6669099/724616.m3u8
 
+#EXTINF:-1 group-title="bein max HD",beIN Max 3 HD (server 1)
+http://hydraa.st:80/live/ssd990987/bgb6669099/724629.m3u8
+
+#EXTINF:-1 group-title="bein max HD",beIN Max 4 HD (server 1)
+http://hydraa.st:80/live/ssd990987/bgb6669099/724602.m3u8
+
 #EXTINF:-1 group-title="bein max HD",beIN Max 1 HD (server 2)
 http://maventv.one:80/live/nagy4158/elsafti8596/372341.m3u8
 
 #EXTINF:-1 group-title="bein max HD",beIN Max 2 HD (server 2)
 http://maventv.one:80/live/nagy4158/elsafti8596/372342.m3u8
+
+#EXTINF:-1 group-title="bein max HD",beIN Max 3 HD (server 2)
+http://maventv.one:80/live/nagy4158/elsafti8596/372601.m3u8
+
+#EXTINF:-1 group-title="bein max HD",beIN Max 4 HD (server 2)
+http://maventv.one:80/live/nagy4158/elsafti8596/384835.m3u8
 
 #EXTINF:-1 group-title="bein max HD",beIN Max 1 HD (server 3)
 http://line.tvforrall.com/live/124d0fc6c5/4d0a83f10682/1389564.m3u8
@@ -38,12 +68,24 @@ http://line.tvforrall.com/live/124d0fc6c5/4d0a83f10682/1389564.m3u8
 #EXTINF:-1 group-title="bein max HD",beIN Max 2 HD (server 3)
 http://line.tvforrall.com/live/124d0fc6c5/4d0a83f10682/1389563.m3u8
 
+#EXTINF:-1 group-title="bein max HD",beIN Max 3 HD (server 3)
+http://line.tvforrall.com/live/124d0fc6c5/4d0a83f10682/1389564.m3u8
+
+#EXTINF:-1 group-title="bein max HD",beIN Max 4 HD (server 3)
+http://line.tvforrall.com/live/124d0fc6c5/4d0a83f10682/1389563.m3u8
+
 # ==================== مجموعة bein max SD====================
 #EXTINF:-1 group-title="bein max SD",beIN Max 1 SD (server 1)
-http://hydraa.st:80/live/ssd990987/bgb6669099/724639.m3u8
+http://hydraa.st:80/live/ssd990987/bgb6669099/724638.m3u8
 
 #EXTINF:-1 group-title="bein max SD",beIN Max 2 SD (server 1)
 http://hydraa.st:80/live/ssd990987/bgb6669099/724634.m3u8
+
+#EXTINF:-1 group-title="bein max SD",beIN Max 3 SD (server 1)
+http://hydraa.st:80/live/ssd990987/bgb6669099/724629.m3u8
+
+#EXTINF:-1 group-title="bein max SD",beIN Max 4 SD (server 1)
+http://hydraa.st:80/live/ssd990987/bgb6669099/724625.m3u8
 
 #EXTINF:-1 group-title="bein max SD",beIN Max 1 SD (server 2)
 http://maventv.one:80/live/nagy4158/elsafti8596/372339.m3u8
@@ -51,10 +93,22 @@ http://maventv.one:80/live/nagy4158/elsafti8596/372339.m3u8
 #EXTINF:-1 group-title="bein max SD",beIN Max 2 SD (server 2)
 http://maventv.one:80/live/nagy4158/elsafti8596/372340.m3u8
 
+#EXTINF:-1 group-title="bein max SD",beIN Max 3 SD (server 2)
+http://maventv.one:80/live/nagy4158/elsafti8596/372604.m3u8
+
+#EXTINF:-1 group-title="bein max SD",beIN Max 4 SD (server 2)
+http://maventv.one:80/live/nagy4158/elsafti8596/384832.m3u8
+
 #EXTINF:-1 group-title="bein max SD",beIN Max 1 SD (server 3)
 http://line.tvforrall.com/live/124d0fc6c5/4d0a83f10682/1389558.m3u8
 
 #EXTINF:-1 group-title="bein max SD",beIN Max 2 SD (server 3)
+http://line.tvforrall.com/live/124d0fc6c5/4d0a83f10682/1389557.m3u8
+
+#EXTINF:-1 group-title="bein max SD",beIN Max 3 SD (server 3)
+http://line.tvforrall.com/live/124d0fc6c5/4d0a83f10682/1389558.m3u8
+
+#EXTINF:-1 group-title="bein max SD",beIN Max 4 SD (server 3)
 http://line.tvforrall.com/live/124d0fc6c5/4d0a83f10682/1389557.m3u8
 
 # ==================== مجموعة bein sport ====================
